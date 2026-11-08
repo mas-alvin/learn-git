@@ -1,0 +1,1 @@
+const nama = getElementById("nama");
